@@ -2,6 +2,11 @@
 
 This is a learning project made with React and TypeScript. It is a responsive webpage that allows to create, edit or delete notes and their attributed tags. Markdown is also supported as note content.
 
+<img width="128" src="https://github.com/AkvileJank/react-notes-app/blob/main/demo/home.png">
+<img width="128" src="https://github.com/AkvileJank/react-notes-app/blob/main/demo/create-note.png">
+<img width="128" src="https://github.com/AkvileJank/react-notes-app/blob/main/demo/note.png">
+<img width="128" src="https://github.com/AkvileJank/react-notes-app/blob/main/demo/edit-tags.png">
+
 ## Learned concepts
 
 In this project I worked with:
