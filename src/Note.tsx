@@ -26,7 +26,7 @@ export function Note({ onDelete }: NoteProps) {
             </Stack>
           )}
         </Col>
-        <Col xs="auto">
+        <Col xs="auto" className='mt-4'>
           <Stack gap={2} direction="horizontal">
             <Link to={`/${note.id}/edit`}>
               <Button>Edit</Button>
